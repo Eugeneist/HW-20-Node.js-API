@@ -1,0 +1,24 @@
+{
+  "name": "hw-20-node.js-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eugeneist/HW-20-Node.js-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eugeneist/HW-20-Node.js-API/issues"
+  },
+  "homepage": "https://github.com/Eugeneist/HW-20-Node.js-API#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.0"
+  }
+}

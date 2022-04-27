@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "name": "T-Shirt",
+        "availability": "In Stock",
+        "size": "M",
+        "price": "10$"
+    },
+    {
+        "id": 2,
+        "name": "Sweatshirt",
+        "availability": "In Stock",
+        "size": "XL",
+        "price": "200$"
+    },
+    {
+        "id": 3,
+        "name": "Socks",
+        "availability": "In Stock",
+        "size": "L",
+        "price": "10$"
+    },
+    {
+        "id": 4,
+        "name": "Hat",
+        "availability": "In Stock",
+        "size": "-",
+        "price": "2$"
+    }
+  ]
+  
